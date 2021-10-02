@@ -1,0 +1,6 @@
+A  B  C  D  E     A)strongly agree   B)agree   C)uncertain   D)Dissatisfied E)Strongly Disagree
+Q.1) I am fine?
+Q.2) Thats good?
+Q.3) Did you actively participated in the class?
+Q.4) was classroom environment conclusive to learning?
+Q.5) Pace of the course was appropiriot?
